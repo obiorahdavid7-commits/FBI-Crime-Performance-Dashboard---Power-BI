@@ -84,7 +84,7 @@ Analyzed 13Bn FBI records across 217 agencies. Found **South handles 35% of load
 4 Pages | Last Updated: October 2026
 
 ### 👤 Author
-**David** | Data Analyst | Power BI Developer
+**David** | Operations & Projects Professional | Business Intelligence & Executing Reporting
 Focus: Turning crime data into executive decisions for public safety
 
 ---
